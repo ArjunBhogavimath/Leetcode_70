@@ -57,3 +57,4 @@ class Solution {
 }
 
 //make proper diagram to understand better
+//TC : O(M*N) SC: O(1)
