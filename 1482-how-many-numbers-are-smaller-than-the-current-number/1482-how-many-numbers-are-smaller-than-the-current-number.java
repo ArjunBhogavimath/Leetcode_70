@@ -54,4 +54,18 @@ now we have number of smaller elements count
 we will add that counter to ith position of ans array
 
 TC : O(N^2) SC: O(1) as the ans array is response
+
+2. Better solution : Using hashmap
+cretae a temp array and copy nums array to that
+sort the array O(nlogn)
+now check if element is existed in map if not add the element to map with index as value
+ignore if the element is already exists
+now create new array with n elemets
+now loop through n times
+with ans[i] = map.get(nums[i])
+basically this will get the value of the current num element 
+which will be a index and which will basically the elements smaller than the present element
+
+TC : O(NlogN) + O(N) = O(NlogN)
+sc : O(N)
  */
