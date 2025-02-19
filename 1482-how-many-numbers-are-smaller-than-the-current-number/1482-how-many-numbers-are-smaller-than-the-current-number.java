@@ -1,17 +1,44 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int n = nums.length;
-        int ans_arr[] = new int[n];
-        for(int i =0;i<n;i++){
-            int count = 0;
-            for(int j =0;j<n;j++){
-                if(i != j && nums[j] < nums[i]){
-                    count++;
-                }
-            }
-            ans_arr[i] = count;
+        int temp[] = new int[n];
+        for(int i=0;i<n;i++){
+            temp[i] = nums[i];
         }
-        return ans_arr;
+        Arrays.sort(temp);
+
+        
+
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i =0;i<n;i++){
+            if(!map.containsKey(temp[i])){
+                map.put(temp[i] , i);
+            }
+        }
+
+        int result_arr[] = new int[n];
+        for(int i =0;i<n;i++){
+            result_arr[i] = map.get(nums[i]);
+        }
+
+        return result_arr;
+
+
+
+
+        //Burte force
+        // int n = nums.length;
+        // int ans_arr[] = new int[n];
+        // for(int i =0;i<n;i++){
+        //     int count = 0;
+        //     for(int j =0;j<n;j++){
+        //         if(i != j && nums[j] < nums[i]){
+        //             count++;
+        //         }
+        //     }
+        //     ans_arr[i] = count;
+        // }
+        // return ans_arr;
     }
 }
 
