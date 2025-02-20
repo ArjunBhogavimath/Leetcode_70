@@ -16,19 +16,6 @@ class Solution {
                 j--;
             }
         }
-
-        // while(j<numbers.length && i < j){
-        //     if(numbers[i]+numbers[j] == target){
-        //         return new int[]{i+1,j+1};
-        //     }
-        //     else if(numbers[i]+numbers[j] < target){
-        //         j++;
-        //         if(numbers[i]+numbers[j] < target && j<numbers.length-1){
-        //             i++;
-        //             j++;
-        //         }
-        //     }
-        // }
         return new int[] {};
         
     }
@@ -38,4 +25,8 @@ class Solution {
 /**
 as the array is sorted there is no need of storing elements in hashmap
 might consider 2 pointer approach
+i from starting
+j from ending
+in this way we can get the solution
+within O(n/2) which roughly equals to TC : O(N) and SC : O(1)
  */
