@@ -32,3 +32,12 @@ class Solution {
         return dp[amount] = ans;
     }
 }
+
+/**
+it is a normal recursion problem
+where the solution will take O(m^n) time complexity SC : O(1)
+so to optimize it we used dp
+with that we can store the already computed values, in that way we can reduce 
+computing again and again 
+TC : O(m*n) SC : O(m)
+ */
