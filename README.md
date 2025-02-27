@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0070-climbing-stairs) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
