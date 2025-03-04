@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
+| [0908-middle-of-the-linked-list](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
