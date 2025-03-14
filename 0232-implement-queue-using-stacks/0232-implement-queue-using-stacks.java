@@ -67,4 +67,9 @@ class MyQueue {
  push all elements from s1 to s2
  now do the s2.pop() 
 
+ push(x)	O(1)
+pop()	O(n) (only when s2 is empty, otherwise O(1))
+peek()	O(n) (only when s2 is empty, otherwise O(1))
+empty()	O(1)
+
   */
