@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -167,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
