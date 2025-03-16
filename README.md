@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Memoization
@@ -171,13 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
