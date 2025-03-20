@@ -20,8 +20,11 @@ class Solution {
        }
 
        return null;
-
-
-      // return lowestCommonAncestor(root.left, p, q) || lowestCommonAncestor(root.right, p, q);
     }
 }
+
+/**
+as we have an option to check for root value
+we can easily send recursion to go left or right of the node
+and based on that we can easily get the anser node
+ */
