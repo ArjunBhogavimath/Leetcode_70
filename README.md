@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0234-palindrome-linked-list) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0232-implement-queue-using-stacks) |
 ## String
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0450-delete-node-in-a-bst) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0450-delete-node-in-a-bst) |
@@ -227,7 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0783-search-in-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
