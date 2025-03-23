@@ -7,7 +7,7 @@ class Solution {
         int result = 0;
         int counter = 1;
 
-        while(first < second && second <n){
+        while(second <n){
             if(nums[first] < nums[second]){
                 counter++;
             } else{
