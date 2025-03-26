@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Geometry
 |  |
 | ------- |
