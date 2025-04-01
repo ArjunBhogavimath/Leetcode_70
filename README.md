@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
