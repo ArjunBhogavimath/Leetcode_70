@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1046-max-consecutive-ones-iii) |
 | [1306-minimum-absolute-difference](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1046-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -135,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
