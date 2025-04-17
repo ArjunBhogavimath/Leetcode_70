@@ -7,3 +7,9 @@ class Solution {
         return xor;
     }
 }
+
+/**
+do the xor operation whenever we want 1 unique element
+if the duplicte elements came, they cancel each other.
+so at end the unique element will be remaining in xor variable
+ */
