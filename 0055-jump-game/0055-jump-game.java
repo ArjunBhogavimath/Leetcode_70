@@ -6,7 +6,7 @@ class Solution {
         for(int i =0;i<n; i++){
             if(i > max_index) return false;
             max_index = Math.max(i + nums[i], max_index);
-            //if(max_index >= n-1) return true;
+            if(max_index >= n-1) return true;
         }
         return true;
     }
