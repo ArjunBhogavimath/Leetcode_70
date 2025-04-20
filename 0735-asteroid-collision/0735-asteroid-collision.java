@@ -49,10 +49,10 @@ class Solution {
            
         // }
         int ans[] = new int[stack.size()];
-        int index =0;
-        for(int num : stack){
-            ans[index++] = num;
-            System.out.println(num);
+        int index = ans.length-1;
+        while(!stack.isEmpty()){
+            ans[index--] = stack.pop();
+            //System.out.println(num);
         }
         return ans;
     }
