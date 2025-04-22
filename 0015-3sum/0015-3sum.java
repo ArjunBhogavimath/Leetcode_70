@@ -3,43 +3,35 @@ class Solution {
         /**
         WE WILL USE 2 POINTERS AND SORTING */
 
-        int n = nums.length;
+        if(nums == null || nums.length < 3) return new ArrayList<>();
 
+        int n = nums.length;
         Arrays.sort(nums);
 
-        List<List<Integer>> ans_list = new ArrayList<>();
+        Set<List<Integer>> result = new HashSet<>();
 
-        for(int i=0;i<n;i++){
-            //check if the element is same as previos, only applies from index 1
-            if(i>0 && nums[i] == nums[i-1]) continue;
-
-            //now take j and k
-            int j = i+1;
-            int k = n-1;
-
-            //2 pointers will run till j< k
-            while(j<k){
-                int sum = nums[i]+nums[j]+nums[k];
+        //now will divide the problem into  pointer by keeping i as constant in for loop
+        for(int i=0;i<n-2;i++){
+            //2 pointer 
+            int left = i+1;
+            int right = n-1;
+            
+            //now run while loop for 2 pointers
+            while(left<right){
+                int sum = nums[i] + nums[left] + nums[right];
                 if(sum == 0){
-                    List<Integer> triplets = Arrays.asList(nums[i], nums[j], nums[k]);
-                    ans_list.add(triplets);
-                    j++;
-                    k--;
-
-                    //still there is a chance of duplicates present int the j and k
-                    // so we will write a while loop
-                    while(j < k && nums[j] == nums[j-1]) j++;
-                    while(j< k && nums[k] == nums[k+1]) k--;
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    left++;
+                    right--;
                 }
-                else if(sum < 0){
-                    j++;
-                }
-                else{
-                    k--;
+                else if(sum<0){
+                    left++;
+                }else{
+                    right--;
                 }
             }
         }
-        return ans_list;
+         return new ArrayList<>(result);
     }
 }
 
