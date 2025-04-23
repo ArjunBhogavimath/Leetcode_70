@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
