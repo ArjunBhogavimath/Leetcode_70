@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
+| [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
