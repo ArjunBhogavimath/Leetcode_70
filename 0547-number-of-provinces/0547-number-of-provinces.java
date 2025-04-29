@@ -20,7 +20,7 @@ class Solution {
         //adjlist is ready
 
         //step 2 we need visited array
-        int visited[] =  new int[n+1];
+        int visited[] =  new int[n];
         int count = 0;
 
         //now for dfs i need to itrerate throught the array and call dfs
