@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1019-squares-of-a-sorted-array) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Queue
