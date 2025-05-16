@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1603-running-sum-of-1d-array) |
+| [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
 | [2058-concatenation-of-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
@@ -374,12 +375,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1285-balance-a-binary-search-tree) |
+| [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
+| [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
 | ------- |
