@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
 |  |
