@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0455-assign-cookies) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
