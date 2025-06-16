@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0055-jump-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0146-lru-cache) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0242-valid-anagram) |
