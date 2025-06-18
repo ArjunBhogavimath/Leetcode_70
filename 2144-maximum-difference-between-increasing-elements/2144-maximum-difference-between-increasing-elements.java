@@ -1,0 +1,28 @@
+class Solution {
+    public int maximumDifference(int[] nums) {
+        int ans = -1;
+        // for(int i=0;i<nums.length-1;i++){
+        //     for(int j = i+1;j<nums.length;j++){
+        //         if(nums[i] < nums[j]){
+        //             ans = Math.max(ans, nums[j] - nums[i]);
+        //         }
+        //     }
+        // }
+        // return ans;
+
+        //we dont need 2 pointers
+        int minNum = nums[0];
+        int maxDif = -1;
+
+        for(int i=1;i<nums.length;i++){
+            if(nums[i] > minNum){
+                maxDif = Math.max(maxDif, nums[i] - minNum);
+            }
+            else {
+                minNum = nums[i];
+            }
+        }
+
+        return maxDif;
+    }
+}
