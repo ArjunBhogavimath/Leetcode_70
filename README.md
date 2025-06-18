@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
 | [2058-concatenation-of-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
