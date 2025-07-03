@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3905-partition-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/3905-partition-string) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
+| [3905-partition-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/3905-partition-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3905-partition-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/3905-partition-string) |
 ## Queue
 |  |
 | ------- |
@@ -422,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0014-longest-common-prefix) |
+| [3905-partition-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/3905-partition-string) |
 <!---LeetCode Topics End-->
