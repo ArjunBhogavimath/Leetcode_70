@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0735-asteroid-collision) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0941-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0455-assign-cookies) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0941-sort-array-by-parity) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0349-intersection-of-two-arrays) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1046-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0347-top-k-frequent-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
