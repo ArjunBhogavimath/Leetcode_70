@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0871-keys-and-rooms](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0871-keys-and-rooms) |
 ## Memoization
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0871-keys-and-rooms) |
 | [1285-balance-a-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0871-keys-and-rooms) |
 ## Trie
 |  |
 | ------- |
