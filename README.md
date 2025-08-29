@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0219-contains-duplicate-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0287-find-the-duplicate-number) |
