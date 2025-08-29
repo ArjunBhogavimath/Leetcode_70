@@ -1,39 +1,37 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-
-        stack.push(s.charAt(0));
-            
-        for(int i=1;i<s.length();i++){
-           
-             if(s.charAt(i) == ')'){
-                if(!stack.empty() && stack.peek() == '('){
-                    stack.pop();
-                } else{
-                    return false;
+        Deque<Character> stack =  new ArrayDeque<>();
+        for(char ch : s.toCharArray()){
+            if(!stack.isEmpty()){
+                if(ch == ')'){
+                    if(stack.peekLast() == '('){
+                        stack.removeLast();
+                    }else{
+                        return false;
+                    }
                 }
-            }
-
-            else if(s.charAt(i) == '}'){
-                if(!stack.empty() && stack.peek() == '{'){
-                    stack.pop();
-                } else{
-                    return false;
+                else if(ch == '}'){
+                    if(stack.peekLast() == '{'){
+                        stack.removeLast();
+                    }else{
+                        return false;
+                    }
                 }
-            }
-
-            else if(s.charAt(i) == ']'){
-                if(!stack.empty() && stack.peek() == '['){
-                    stack.pop();
-                } else{
-                    return false;
+                else if(ch == ']'){
+                    if(stack.peekLast() == '['){
+                        stack.removeLast();
+                    }else{
+                        return false;
+                    }
                 }
-            }
-            else{
-                stack.push(s.charAt(i));
+                else{
+                    stack.addLast(ch);
+                }
+            } else{
+                stack.addLast(ch);
             }
         }
-        if(stack.empty()){
+        if(stack.isEmpty()){
             return true;
         }
         return false;
