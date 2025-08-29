@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0735-asteroid-collision) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0890-lemonade-change) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1285-balance-a-binary-search-tree) |
 | [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
 ## Heap (Priority Queue)
