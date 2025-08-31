@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1250-longest-common-subsequence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
