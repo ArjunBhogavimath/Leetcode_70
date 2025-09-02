@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0516-longest-palindromic-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1250-longest-common-subsequence) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
