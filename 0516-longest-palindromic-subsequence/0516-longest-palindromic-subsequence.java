@@ -29,3 +29,10 @@ class Solution {
         return dp[i][j];
     }
 }
+
+/**
+when we reverse a string and try searching for longest common subseq in both original and reversed string, we will get the answer as longest palindrome
+
+so, here i just reverse the original string and made it as s2, and called longestCommonSubsequence
+
+ */
