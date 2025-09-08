@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0782-jewels-and-stones) |
