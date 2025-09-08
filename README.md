@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1656-count-good-triplets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Geometry
 |  |
