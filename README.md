@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2032-largest-odd-number-in-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2032-largest-odd-number-in-string) |
 ## Geometry
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1250-longest-common-subsequence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2032-largest-odd-number-in-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3905-partition-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/3905-partition-string) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1285-balance-a-binary-search-tree) |
 | [1762-furthest-building-you-can-reach](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1762-furthest-building-you-can-reach) |
+| [2032-largest-odd-number-in-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
