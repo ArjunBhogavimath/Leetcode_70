@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0735-asteroid-collision) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0830-largest-triangle-area](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0830-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0941-sort-array-by-parity) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0415-add-strings) |
+| [0830-largest-triangle-area](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
 ## Matrix
