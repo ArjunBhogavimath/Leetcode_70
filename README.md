@@ -131,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2032-largest-odd-number-in-string) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/1395-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Matrix
 |  |
 | ------- |
