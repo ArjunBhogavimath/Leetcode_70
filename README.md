@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0054-spiral-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2195-time-needed-to-buy-tickets) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3905-partition-string](https://github.com/ArjunBhogavimath/Leetcode_70/tree/master/3905-partition-string) |
 ## Dynamic Programming
 |  |
